@@ -1,5 +1,5 @@
 # CSS
-This repository offers a straightforward demonstration of CSS concepts. The raw CSS files can be found in the "CSS" folder.
+This repository offers a straightforward demonstration of CSS concepts. The raw CSS files can be found in the "CSS" folder in each little project.
 
 1. Position practice: 
 ![image](https://github.com/jcamilovallejos/CSS/assets/54046391/1b7575a4-9228-40ad-939a-6a80eb005b0f)
