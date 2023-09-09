@@ -1,0 +1,7 @@
+Elemento
+Primero llevara el nombre del bloque padre, seguido de dos guiones y el nombre del elemento.
+•	navbar_link
+Modificadores
+Primero debe estar definida la clase del bloque o elemento, para posteriormente copiarla y pegarla, agregando 2 guiones medio y el nombre del modificador que se desea poner
+•	.container .container—steelblue
+•	navbar_item navbar__item—red
